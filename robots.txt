@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://granawin.partnersplayamo.net/sitemap.xml
